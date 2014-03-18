@@ -1,0 +1,13 @@
+\documentclass[12 pt]{article}
+
+
+
+\begin{document}
+  \input{title}
+  \input{abstract}
+  \input{introduction}
+  \input{body}
+  \input{conclusion}
+
+  
+\end{document}
