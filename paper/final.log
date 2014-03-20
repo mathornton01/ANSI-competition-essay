@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=latex 2014.3.19)  19 MAR 2014 21:11
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=latex 2014.3.19)  19 MAR 2014 22:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -52,15 +52,22 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
 )
 (./abstract.tex) (./introduction.tex [1
 
-]) (./body.tex) (./conclusion.tex)
-(./final.bbl) [2] (./final.aux) ) 
+]) (./body.tex (./ipProblem.tex
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 19.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 19.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 19.
+))
+(./conclusion.tex) (./final.bbl [2]) [3] (./final.aux) ) 
 Here is how much of TeX's memory you used:
- 259 strings out of 493308
- 2926 string characters out of 6139931
+ 279 strings out of 493308
+ 3140 string characters out of 6139931
  54682 words of memory out of 5000000
- 3777 multiletter control sequences out of 15000+600000
- 7275 words of font info for 26 fonts, out of 8000000 for 9000
+ 3788 multiletter control sequences out of 15000+600000
+ 9406 words of font info for 33 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 23i,7n,19p,163b,299s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 23i,7n,19p,514b,299s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on final.dvi (2 pages, 4960 bytes).
+Output written on final.dvi (3 pages, 6512 bytes).
