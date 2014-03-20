@@ -3,11 +3,14 @@
 
 
 \begin{document}
-  \input{title}
-  \input{abstract}
-  \input{introduction}
-  \input{body}
-  \input{conclusion}
 
-  
+  \input{abstract}
+
+
+
+
+
+
+
+
 \end{document}
